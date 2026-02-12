@@ -2,7 +2,11 @@
 在AI大模型快速发展的今天，Claude模型凭借出色的文本理解与生成能力，成为很多开发者和企业的首选。而想要调用Claude等服务，第一步就是获取 **Anthropic API Key**。
 
 那么，**Anthropic API Key是什么？国内用户又该如何获取？** 这篇教程将为你完整讲清楚。
+### 国内用户解决方案：使用合规第三方平台
 
+如果你只是想在国内稳定体验Claude能力，可以选择一些提供兼容接口的平台，例如：
+
+* DKAPI：[https://api.dakeai.cc](https://api.dakeai.cc)
 ---
 
 ## 一、Anthropic API Key是什么？
