@@ -7,6 +7,7 @@
 如果你只是想在国内稳定体验Claude能力，可以选择一些提供兼容接口的平台，例如：
 
 * DKAPI：[https://api.dakeai.cc](https://api.dakeai.cc)
+* 通道二：https://codex.dakeai.cc/
 ---
 
 ## 一、Anthropic API Key是什么？
